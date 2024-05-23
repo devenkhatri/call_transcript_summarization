@@ -1,4 +1,4 @@
-# genai-app-boilerplate
+# call_transcript_summarization
 
 - App used as boilerplate & clone the app modify as per your requiremnt.
 
